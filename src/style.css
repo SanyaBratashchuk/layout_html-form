@@ -4,11 +4,11 @@
   margin-bottom: 10px;
 }
 
-fieldset {
+.fieldset {
   margin: 20px 0;
 }
 
-.field-for.last-field {
+.last-field {
   margin: 0;
 }
 
